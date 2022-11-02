@@ -1,4 +1,4 @@
-# Human Activity Recogntion (Presented at IEEE Tencon 2022)
+# Human Activity Recogntion
 Authors: Sreejith Sasidharan, Pranav Prabha, Devasena Pasupuleti, Anand M Das, Anand M Das, Chaitanya Kapoor, Gayathri Manikutty, Praveen Pankajakshan, and Bhavani Rao
 
 This repository contains the notebooks that were used to train the models which are added on the conference paper titled "Handwashing Action Detection System for an Autonomous Social Robot" presented at IEEE TENCON 2022.
