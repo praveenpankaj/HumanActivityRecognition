@@ -8,5 +8,7 @@ Original data of handwashing experiments from: https://github.com/Realtime-Actio
 # Modified handwashing experiments data with 6 steps
 Pranav et al., October 13, 2022, "Six steps of hand washing dataset with segmentation maps", IEEE Dataport, doi: https://dx.doi.org/10.21227/ghr9-y726
 
+# Model Architecture with Channel and Spatial Attention
+![Model Architecture](https://github.com/praveenpankaj/HumanActivityRecognition/blob/main/ModelArchitecture.png))
 # Prior Literature:
 [1] Media Pipeline: https://google.github.io/mediapipe/solutions/hands
