@@ -51,7 +51,8 @@ pip install mediapipe
 
 # Install visualization library for attention maps
 pip install tf-keras-vis
-
+```
+---
 ## 🚀 Usage  
 
 1. Launch Jupyter Notebook:  
@@ -64,15 +65,20 @@ ResNet50-plain[Jul26_2022][TENCON].ipynb
 4. Training: Run the training cells to define, compile, and train the models (e.g., with TensorFlow).
 5. Evaluation & Inference: Use the evaluation cells to compute metrics (accuracy, confusion matrix, etc.).
 6. You can also use tf-keras-vis to visualize feature importance and attention maps.
-
-##📊 Results & Performance
+---
+## 📊 Results & Performance
 (TBD)
-
+---
 ## 📖 Citation
+
 If you use this repository in your work, please cite:
 Sreejith Sasidharan, Pranav Prabha, Devasena Pasupuleti, Anand M. Das, Chaitanya Kapoor, Gayathri Manikutty, Praveen Pankajakshan, and Bhavani Rao,
 "Handwashing Action Detection System for an Autonomous Social Robot," Proc. IEEE TENCON 2022.
 arXiv:2210.15804
 
+---
 ## 📜 License
+
 This project is released under the MIT License.
+
+---
